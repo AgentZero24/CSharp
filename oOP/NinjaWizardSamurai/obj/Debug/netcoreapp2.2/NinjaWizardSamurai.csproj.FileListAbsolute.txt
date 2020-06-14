@@ -1,0 +1,11 @@
+/Users/paul_kramer/Desktop/dojo_assignments/cSharp/NinjaWizardSamurai/obj/Debug/netcoreapp2.2/NinjaWizardSamurai.csprojAssemblyReference.cache
+/Users/paul_kramer/Desktop/dojo_assignments/cSharp/NinjaWizardSamurai/obj/Debug/netcoreapp2.2/NinjaWizardSamurai.csproj.CoreCompileInputs.cache
+/Users/paul_kramer/Desktop/dojo_assignments/cSharp/NinjaWizardSamurai/obj/Debug/netcoreapp2.2/NinjaWizardSamurai.AssemblyInfoInputs.cache
+/Users/paul_kramer/Desktop/dojo_assignments/cSharp/NinjaWizardSamurai/obj/Debug/netcoreapp2.2/NinjaWizardSamurai.AssemblyInfo.cs
+/Users/paul_kramer/Desktop/dojo_assignments/cSharp/NinjaWizardSamurai/bin/Debug/netcoreapp2.2/NinjaWizardSamurai.deps.json
+/Users/paul_kramer/Desktop/dojo_assignments/cSharp/NinjaWizardSamurai/bin/Debug/netcoreapp2.2/NinjaWizardSamurai.runtimeconfig.json
+/Users/paul_kramer/Desktop/dojo_assignments/cSharp/NinjaWizardSamurai/bin/Debug/netcoreapp2.2/NinjaWizardSamurai.runtimeconfig.dev.json
+/Users/paul_kramer/Desktop/dojo_assignments/cSharp/NinjaWizardSamurai/bin/Debug/netcoreapp2.2/NinjaWizardSamurai.dll
+/Users/paul_kramer/Desktop/dojo_assignments/cSharp/NinjaWizardSamurai/bin/Debug/netcoreapp2.2/NinjaWizardSamurai.pdb
+/Users/paul_kramer/Desktop/dojo_assignments/cSharp/NinjaWizardSamurai/obj/Debug/netcoreapp2.2/NinjaWizardSamurai.dll
+/Users/paul_kramer/Desktop/dojo_assignments/cSharp/NinjaWizardSamurai/obj/Debug/netcoreapp2.2/NinjaWizardSamurai.pdb

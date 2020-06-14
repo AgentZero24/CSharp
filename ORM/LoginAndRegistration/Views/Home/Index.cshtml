@@ -1,0 +1,37 @@
+﻿@model Registration
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Register</title>
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.0/css/bootstrap.min.css" integrity="sha384-9aIt2nRpC12Uk9gS9baDl411NQApFmC26EwAOH8WgZl5MYYxFfc+NcPb1dKGj7Sk" crossorigin="anonymous">
+</head>
+<body>
+    <form asp-action="CreateRegistration" asp-controller="Home" method="POST">
+        <div class="row">
+            <div class="form-group">
+                <label asp-for="FirstName"></label>
+                <span asp-validation-for="FirstName"></span>
+                <input class="form-control" asp-for="FirstName">
+                <label asp-for="LastName"></label>
+                <span asp-validation-for="LastName"></span>
+                <input class="form-control" asp-for="LastName">
+                <label asp-for="Email"></label>
+                <span asp-validation-for="Email"></span>
+                <input class="form-control" asp-for="Email">
+                <label asp-for="Password"></label>
+                <span asp-validation-for="Password"></span>
+                <input class="form-control" asp-for="Password">
+                <label asp-for="Confirm"></label>
+                <span asp-validation-for="Confirm"></span>
+                <input class="form-control" asp-for="Confirm">
+            </div>
+        </div>
+        <div class="button">
+            <input type="submit" class="btn btn-success" value="Register">
+        </div>
+    </form>
+</body>
+</html>

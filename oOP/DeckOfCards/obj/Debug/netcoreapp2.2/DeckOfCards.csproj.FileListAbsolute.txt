@@ -1,0 +1,11 @@
+/Users/paul_kramer/Desktop/dojo_assignments/cSharp/DeckOfCards/obj/Debug/netcoreapp2.2/DeckOfCards.csprojAssemblyReference.cache
+/Users/paul_kramer/Desktop/dojo_assignments/cSharp/DeckOfCards/obj/Debug/netcoreapp2.2/DeckOfCards.csproj.CoreCompileInputs.cache
+/Users/paul_kramer/Desktop/dojo_assignments/cSharp/DeckOfCards/obj/Debug/netcoreapp2.2/DeckOfCards.AssemblyInfoInputs.cache
+/Users/paul_kramer/Desktop/dojo_assignments/cSharp/DeckOfCards/obj/Debug/netcoreapp2.2/DeckOfCards.AssemblyInfo.cs
+/Users/paul_kramer/Desktop/dojo_assignments/cSharp/DeckOfCards/bin/Debug/netcoreapp2.2/DeckOfCards.deps.json
+/Users/paul_kramer/Desktop/dojo_assignments/cSharp/DeckOfCards/bin/Debug/netcoreapp2.2/DeckOfCards.runtimeconfig.json
+/Users/paul_kramer/Desktop/dojo_assignments/cSharp/DeckOfCards/bin/Debug/netcoreapp2.2/DeckOfCards.runtimeconfig.dev.json
+/Users/paul_kramer/Desktop/dojo_assignments/cSharp/DeckOfCards/bin/Debug/netcoreapp2.2/DeckOfCards.dll
+/Users/paul_kramer/Desktop/dojo_assignments/cSharp/DeckOfCards/bin/Debug/netcoreapp2.2/DeckOfCards.pdb
+/Users/paul_kramer/Desktop/dojo_assignments/cSharp/DeckOfCards/obj/Debug/netcoreapp2.2/DeckOfCards.dll
+/Users/paul_kramer/Desktop/dojo_assignments/cSharp/DeckOfCards/obj/Debug/netcoreapp2.2/DeckOfCards.pdb

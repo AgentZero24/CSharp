@@ -1,0 +1,11 @@
+/Users/paul_kramer/Desktop/dojo_assignments/cSharp/hello.netCore/bin/Debug/netcoreapp2.2/hello.netCore.deps.json
+/Users/paul_kramer/Desktop/dojo_assignments/cSharp/hello.netCore/bin/Debug/netcoreapp2.2/hello.netCore.runtimeconfig.json
+/Users/paul_kramer/Desktop/dojo_assignments/cSharp/hello.netCore/bin/Debug/netcoreapp2.2/hello.netCore.runtimeconfig.dev.json
+/Users/paul_kramer/Desktop/dojo_assignments/cSharp/hello.netCore/bin/Debug/netcoreapp2.2/hello.netCore.dll
+/Users/paul_kramer/Desktop/dojo_assignments/cSharp/hello.netCore/bin/Debug/netcoreapp2.2/hello.netCore.pdb
+/Users/paul_kramer/Desktop/dojo_assignments/cSharp/hello.netCore/obj/Debug/netcoreapp2.2/hello.netCore.csprojAssemblyReference.cache
+/Users/paul_kramer/Desktop/dojo_assignments/cSharp/hello.netCore/obj/Debug/netcoreapp2.2/hello.netCore.csproj.CoreCompileInputs.cache
+/Users/paul_kramer/Desktop/dojo_assignments/cSharp/hello.netCore/obj/Debug/netcoreapp2.2/hello.netCore.AssemblyInfoInputs.cache
+/Users/paul_kramer/Desktop/dojo_assignments/cSharp/hello.netCore/obj/Debug/netcoreapp2.2/hello.netCore.AssemblyInfo.cs
+/Users/paul_kramer/Desktop/dojo_assignments/cSharp/hello.netCore/obj/Debug/netcoreapp2.2/hello.netCore.dll
+/Users/paul_kramer/Desktop/dojo_assignments/cSharp/hello.netCore/obj/Debug/netcoreapp2.2/hello.netCore.pdb

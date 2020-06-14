@@ -1,0 +1,11 @@
+/Users/paul_kramer/Desktop/dojo_assignments/cSharp/human/obj/Debug/netcoreapp2.2/human.csprojAssemblyReference.cache
+/Users/paul_kramer/Desktop/dojo_assignments/cSharp/human/obj/Debug/netcoreapp2.2/human.csproj.CoreCompileInputs.cache
+/Users/paul_kramer/Desktop/dojo_assignments/cSharp/human/obj/Debug/netcoreapp2.2/human.AssemblyInfoInputs.cache
+/Users/paul_kramer/Desktop/dojo_assignments/cSharp/human/obj/Debug/netcoreapp2.2/human.AssemblyInfo.cs
+/Users/paul_kramer/Desktop/dojo_assignments/cSharp/human/bin/Debug/netcoreapp2.2/human.deps.json
+/Users/paul_kramer/Desktop/dojo_assignments/cSharp/human/bin/Debug/netcoreapp2.2/human.runtimeconfig.json
+/Users/paul_kramer/Desktop/dojo_assignments/cSharp/human/bin/Debug/netcoreapp2.2/human.runtimeconfig.dev.json
+/Users/paul_kramer/Desktop/dojo_assignments/cSharp/human/bin/Debug/netcoreapp2.2/human.dll
+/Users/paul_kramer/Desktop/dojo_assignments/cSharp/human/bin/Debug/netcoreapp2.2/human.pdb
+/Users/paul_kramer/Desktop/dojo_assignments/cSharp/human/obj/Debug/netcoreapp2.2/human.dll
+/Users/paul_kramer/Desktop/dojo_assignments/cSharp/human/obj/Debug/netcoreapp2.2/human.pdb

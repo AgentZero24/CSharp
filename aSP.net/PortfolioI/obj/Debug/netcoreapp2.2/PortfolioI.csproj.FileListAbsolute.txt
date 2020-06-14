@@ -1,0 +1,14 @@
+/Users/paul_kramer/Desktop/dojo_assignments/cSharp/PortfolioI/bin/Debug/netcoreapp2.2/PortfolioI.deps.json
+/Users/paul_kramer/Desktop/dojo_assignments/cSharp/PortfolioI/bin/Debug/netcoreapp2.2/PortfolioI.runtimeconfig.json
+/Users/paul_kramer/Desktop/dojo_assignments/cSharp/PortfolioI/bin/Debug/netcoreapp2.2/PortfolioI.runtimeconfig.dev.json
+/Users/paul_kramer/Desktop/dojo_assignments/cSharp/PortfolioI/bin/Debug/netcoreapp2.2/PortfolioI.dll
+/Users/paul_kramer/Desktop/dojo_assignments/cSharp/PortfolioI/bin/Debug/netcoreapp2.2/PortfolioI.pdb
+/Users/paul_kramer/Desktop/dojo_assignments/cSharp/PortfolioI/obj/Debug/netcoreapp2.2/PortfolioI.csprojAssemblyReference.cache
+/Users/paul_kramer/Desktop/dojo_assignments/cSharp/PortfolioI/obj/Debug/netcoreapp2.2/PortfolioI.csproj.CoreCompileInputs.cache
+/Users/paul_kramer/Desktop/dojo_assignments/cSharp/PortfolioI/obj/Debug/netcoreapp2.2/PortfolioI.RazorAssemblyInfo.cache
+/Users/paul_kramer/Desktop/dojo_assignments/cSharp/PortfolioI/obj/Debug/netcoreapp2.2/PortfolioI.RazorAssemblyInfo.cs
+/Users/paul_kramer/Desktop/dojo_assignments/cSharp/PortfolioI/obj/Debug/netcoreapp2.2/PortfolioI.AssemblyInfoInputs.cache
+/Users/paul_kramer/Desktop/dojo_assignments/cSharp/PortfolioI/obj/Debug/netcoreapp2.2/PortfolioI.AssemblyInfo.cs
+/Users/paul_kramer/Desktop/dojo_assignments/cSharp/PortfolioI/obj/Debug/netcoreapp2.2/PortfolioI.RazorTargetAssemblyInfo.cache
+/Users/paul_kramer/Desktop/dojo_assignments/cSharp/PortfolioI/obj/Debug/netcoreapp2.2/PortfolioI.dll
+/Users/paul_kramer/Desktop/dojo_assignments/cSharp/PortfolioI/obj/Debug/netcoreapp2.2/PortfolioI.pdb
