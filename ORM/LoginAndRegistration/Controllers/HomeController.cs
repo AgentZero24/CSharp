@@ -106,6 +106,12 @@ namespace LoginAndRegistration.Controllers
             }
             return RedirectToAction("Login");
         }
+        [HttpGet("logout")]
+        public IActionResult Logout()
+        {
+            HttpContext.Session.Clear();
+            return RedirectToAction("Login");
+        }
         public IActionResult Privacy()
         {
             return View();
