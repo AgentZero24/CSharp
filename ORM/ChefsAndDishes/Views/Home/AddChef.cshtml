@@ -1,0 +1,30 @@
+@model Chef
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Register</title>
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.0/css/bootstrap.min.css" integrity="sha384-9aIt2nRpC12Uk9gS9baDl411NQApFmC26EwAOH8WgZl5MYYxFfc+NcPb1dKGj7Sk" crossorigin="anonymous">
+</head>
+<body>
+    <form asp-action="AddChef" asp-controller="Home" method="POST">
+        <div class="row">
+            <div class="form-group">
+                <label asp-for="FirstName"></label>
+                <span asp-validation-for="FirstName"></span>
+                <input class="form-control" asp-for="FirstName">
+                <label asp-for="LastName"></label>
+                <span asp-validation-for="LastName"></span>
+                <input class="form-control" asp-for="LastName">
+                <label asp-for="Age"></label>
+                <span asp-validation-for="Age"></span>
+                <input class="form-control" type="Date" asp-for="Age">
+            </div>
+        </div>
+        <div class="button">
+            <input type="submit" class="btn btn-success" value="Register">
+        </div>
+    </form>
+</body>
+</html>
