@@ -31,8 +31,7 @@ namespace WeddingPlanner.Models
         public DateTime UpdatedAt { get; set; } = DateTime.Now;
 
         public User Creator { get; set; }
-
         public int UserId { get; set; }
-        List<RSVP> RSVP { get; set; }
+        public List<RSVP> RSVP { get; set; }
     }
 }

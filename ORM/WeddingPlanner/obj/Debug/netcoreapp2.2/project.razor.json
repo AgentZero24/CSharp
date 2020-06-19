@@ -3001,6 +3001,11 @@
       "FileKind": "mvc"
     },
     {
+      "FilePath": "/Users/paul_kramer/Desktop/dojo_assignments/cSharp/ORM/WeddingPlanner/Views/WeddingPlanner/OneWedding.cshtml",
+      "TargetPath": "Views\\WeddingPlanner\\OneWedding.cshtml",
+      "FileKind": "mvc"
+    },
+    {
       "FilePath": "/Users/paul_kramer/Desktop/dojo_assignments/cSharp/ORM/WeddingPlanner/Views/Shared/_Layout.cshtml",
       "TargetPath": "Views\\Shared\\_Layout.cshtml",
       "FileKind": "mvc"

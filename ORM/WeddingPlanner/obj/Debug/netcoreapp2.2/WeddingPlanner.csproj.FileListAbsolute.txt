@@ -33,3 +33,4 @@
 /Users/paul_kramer/Desktop/dojo_assignments/cSharp/ORM/WeddingPlanner/obj/Debug/netcoreapp2.2/Razor/Views/Home/Success.g.cshtml.cs
 /Users/paul_kramer/Desktop/dojo_assignments/cSharp/ORM/WeddingPlanner/obj/Debug/netcoreapp2.2/Razor/Views/WeddingPlanner/Dashboard.g.cshtml.cs
 /Users/paul_kramer/Desktop/dojo_assignments/cSharp/ORM/WeddingPlanner/obj/Debug/netcoreapp2.2/Razor/Views/WeddingPlanner/NewWedding.g.cshtml.cs
+/Users/paul_kramer/Desktop/dojo_assignments/cSharp/ORM/WeddingPlanner/obj/Debug/netcoreapp2.2/Razor/Views/WeddingPlanner/OneWedding.g.cshtml.cs

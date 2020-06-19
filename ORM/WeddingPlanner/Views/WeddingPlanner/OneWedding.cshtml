@@ -1,0 +1,35 @@
+@model Wedding
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <div class="container">
+        <div class="row">
+            <div class="lefthead col-8">
+                <h1>@Model.WedderOne and @Model.WedderTwo's Wedding</h1>
+            </div>
+            <div class="dash col-2">
+                <a href="/dashboard">Dashboard</a>
+            </div>
+            <div class="log col-2">
+                <a href="/logout">Logout</a>
+            </div>
+        </div>
+        <div class="date">
+            <h4>Date: @Model.Date.ToString("MM / dd / yyyy")</h4>
+            <h4>Guests:</h4>
+            <ul>
+                @foreach (RSVP rsvp in Model.RSVP)
+                {
+                    <li>@rsvp.User.FirstName @rsvp.User.LastName</li>
+                }
+            </ul>
+        </div>
+    </div>
+</body>
+</html>
